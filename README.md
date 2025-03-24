@@ -1,11 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0MOLbOcH)
 # Introduction
-Hi! I'm [Your Name], a student in the Framework-Based Software Design and Development course. 
-I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+Hi! I'm Qian Hui 😊, currently pursuing a **Master of Computer Science (Applied Computing)** in mixed-mode 🎓. I’m also working full-time as an **SAP Technical Analyst** 💻 while juggling my studies. My journey in tech has led me to gain hands-on experience in **web development** (HTML, CSS, JavaScript, SAPUI5) 🌐, **backend development** (Java, Python) 🔧, and other exciting tech fields.
+
+When I'm not coding, you’ll find me **traveling** ✈️, **watching dramas** 📺, or **listening to music** 🎶. I'm passionate about enhancing my skills and embracing new challenges in the tech world.
+
+<img src="./profile-qh.JPG" width="30%">
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+Feel free to check out my GitHub profile [here](https://github.com/qhliew0302) 👩‍💻
+
 
